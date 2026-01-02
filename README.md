@@ -40,27 +40,4 @@
   <div align="center">
 <br />
 
-<h2>🦀 Installing Rust (Required for Tauri)</h2>
 
-<p>To run the Tauri development server, you need to have the Rust toolchain installed. Follow these steps:</p>
-
-<ol>
-  <li>Visit <a href="https://rustup.rs" target="_blank">https://rustup.rs</a></li>
-  <li>Download the installer for Windows.</li>
-  <li>Run the installer and accept the default options.</li>
-  <li>Once installed, restart your terminal and verify the installation by running:<br>
-    <code>cargo --version</code>
-  </li>
-  <li>If the command returns a version number (e.g. <code>cargo 1.75.0</code>), Rust is correctly installed.</li>
-</ol>
-
-<p align="center">
-  <img src="/src-tauri/icons/Ollama-Teacher.ico" width="150" alt="Ollector Logo">
-  <br>
-  <i>Rust powers the backend magic behind Tauri.</i>
-</p>
-
-
-<!--
-**AnT0nio07/AnT0nio07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
